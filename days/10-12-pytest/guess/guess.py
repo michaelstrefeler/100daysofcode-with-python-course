@@ -35,7 +35,7 @@ class Game:
         except ValueError:
             raise ValueError('Should be a number')
 
-        if guess not in range(START, END+1):
+        if guess not in range(START, END + 1):
             raise ValueError('Number not in range')
 
         if guess in self._guesses:

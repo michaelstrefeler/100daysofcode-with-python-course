@@ -2,7 +2,8 @@ import pytest
 
 from fizzbuzz import fizzbuzz
 
-@pytest.mark.parametrize("arg, ret",[
+
+@pytest.mark.parametrize("arg, ret", [
     (1, 1),
     (2, 2),
     (3, 'Fizz'),
