@@ -1,4 +1,4 @@
-import random
+from random import randint
 
 
 class Creature:
@@ -7,7 +7,7 @@ class Creature:
         self.level = level
 
     def defensive_roll(self):
-        roll = random.randint(1, 12)
+        roll = randint(1, 12)
         return roll * self.level
 
 
