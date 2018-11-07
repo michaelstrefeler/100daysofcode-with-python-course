@@ -1,6 +1,7 @@
 # game.py
 # a basic rock paper scissors game in python
 from classes import Player, Roll
+from data_reader import read_rolls
 from random import choice
 
 
@@ -11,12 +12,12 @@ def print_header():
     print()
 
 
-def build_the_three_rolls():
-    rock = Roll('Rock', ['Scissors'], ['Paper'])
-    paper = Roll('Paper', ['Rock'], ['Scissors'])
-    scissors = Roll('Scissors', ['Paper'], ['Rock'])
-
-    return [rock, paper, scissors]
+def build_all_the_rolls():
+    results = read_rolls()
+    rolls = []
+    for k, v in results.items():
+        rolls.append(Roll(k, v[0], v[1]))
+    return rolls
 
 
 def get_players_name():
@@ -70,8 +71,8 @@ def game_loop(player1, player2, rolls):
 
 def main():
     print_header()
-
-    rolls = build_the_three_rolls()
+    rolls = build_all_the_rolls()
+    # rolls = build_the_three_rolls()
 
     name = get_players_name()
 
