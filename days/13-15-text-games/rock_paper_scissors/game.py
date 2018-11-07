@@ -72,7 +72,6 @@ def game_loop(player1, player2, rolls):
 def main():
     print_header()
     rolls = build_all_the_rolls()
-    # rolls = build_the_three_rolls()
 
     name = get_players_name()
 

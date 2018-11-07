@@ -28,6 +28,7 @@ def read_roll(row: dict):
             loses.append(outcome[:-6])
         elif outcome.endswith('True'):
             wins.append(outcome[:-5])
+
     if name in wins:
         del wins[wins.index(name)]
 
