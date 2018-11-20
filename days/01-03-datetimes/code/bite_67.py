@@ -1,3 +1,6 @@
+# bite_67.py
+# Working with datetimes
+
 from datetime import date, timedelta
 
 start_100days = date(2017, 3, 30)

@@ -1,3 +1,6 @@
+# bite_7_official_solution.py
+# Parsing dates from logs
+
 '''Extract datetimes from log entries and calculate the time
    between the first and last shutdown events'''
 from datetime import datetime
