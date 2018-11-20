@@ -1,3 +1,6 @@
+# bite_26.py
+# Dictionary comprehensions are awesome
+
 bites = {
     6: 'PyBites Die Hard',
     7: 'Parsing dates from logs',
