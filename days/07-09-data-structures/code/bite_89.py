@@ -1,3 +1,6 @@
+# bite_89.py
+# Playing with lists and dicts
+
 us_state_abbrev = {'Alabama': 'AL', 'Alaska': 'AK', 'Arizona': 'AZ',
                    'Arkansas': 'AR', 'California': 'CA', 'Colorado': 'CO',
                    'Connecticut': 'CT', 'Delaware': 'DE', 'Florida': 'FL',
@@ -63,10 +66,3 @@ def combine_state_names_and_abbreviations(us_state_abbrev=us_state_abbrev,
        list (see above) and combine them into a new list without losing
        alphabetical order"""
     return sorted(list(us_state_abbrev.values())[0:10]) + sorted(states)[-10:]
-
-
-# print(get_every_nth_state())
-# print(get_state_abbrev('Minnesota'))
-# print(get_longest_state(us_state_abbrev))
-# print(get_longest_state(states))
-print(combine_state_names_and_abbreviations())

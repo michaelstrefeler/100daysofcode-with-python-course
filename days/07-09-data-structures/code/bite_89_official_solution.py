@@ -1,3 +1,6 @@
+# bite_89_official_solution.py
+# Playing with lists and dicts
+
 us_state_abbrev = {'Alabama': 'AL', 'Alaska': 'AK', 'Arizona': 'AZ',
                    'Arkansas': 'AR', 'California': 'CA', 'Colorado': 'CO',
                    'Connecticut': 'CT', 'Delaware': 'DE', 'Florida': 'FL',
