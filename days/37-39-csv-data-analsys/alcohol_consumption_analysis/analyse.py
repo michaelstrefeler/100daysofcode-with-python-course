@@ -1,6 +1,7 @@
 from os import path
 from csv import DictReader
 from collections import namedtuple
+from typing import List
 
 data = []
 
@@ -21,7 +22,11 @@ def get_data():
             record = format_row(row)
             data.append(record)
 
-    print(data)
+    return data
+
+
+def get_countries():
+    return [c.country for c in data]
 
 
 def format_row(row):
@@ -32,3 +37,23 @@ def format_row(row):
         row['total_litres_of_pure_alcohol'])
 
     return Record(**row)
+
+
+def get_country_stats(choice) -> List[Record]:
+    return [c for c in data if c.country == choice]
+
+
+def beeriest_countries() -> List[Record]:
+    return sorted(data, key=lambda r: -r.beer_servings)
+
+
+def hightest_spirit_countries() -> List[Record]:
+    return sorted(data, key=lambda r: -r.spirit_servings)
+
+
+def winiest_countries() -> List[Record]:
+    return sorted(data, key=lambda r: -r.wine_servings)
+
+
+def alcohlic_countries() -> List[Record]:
+    return sorted(data, key=lambda r: -r.total_litres_of_pure_alcohol)
