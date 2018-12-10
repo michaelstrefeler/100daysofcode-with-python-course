@@ -17,7 +17,7 @@ def scrape(site):
     html_header_list = soup.select('.projectHeader')
 
     header_list = [header.getText() for header in html_header_list]
-    
+
     for headers in header_list:
         print(headers)
 
