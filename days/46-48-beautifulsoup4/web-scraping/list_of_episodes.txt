@@ -1,0 +1,950 @@
+
+#189
+2018-12-07
+War Stories of the Developer Evangelists
+Panelists
+
+#188
+2018-12-01
+Async for the Pythonic web with Sanic
+Adam Hopkins
+
+#187
+2018-11-20
+Secure all the things with HubbleStack
+Colton Myers
+
+#186
+2018-11-16
+100 Days of Python in a Magical Universe
+Anna-Lena Popkes
+
+#185
+2018-11-09
+Creating a Python 3 Culture at Facebook
+Jason Fried
+
+#184
+2018-11-02
+Teaching Python with BBC micro:bit
+Nicholas Tollervey
+
+#183
+2018-10-24
+Qt for Python
+Cristián Maureira-Fredes
+
+#182
+2018-10-17
+Picture Python at Shutterfly
+Doug Farrell
+
+#181
+2018-10-12
+30 amazing Python projects
+Brian Okken
+
+#180
+2018-10-02
+What's new in Python 3.7 and beyond
+Anthony Shaw
+
+#179
+2018-09-26
+Python Language Summit 2018
+Panelists
+
+#178
+2018-09-21
+Coverage.py
+Ned Batchelder
+
+#177
+2018-09-15
+Flask goes 1.0
+David Lord
+
+#176
+2018-09-10
+The Python Community by the Numbers
+Panelists
+
+#175
+2018-08-31
+Teaching Python to network engineers
+Hank Preston III
+
+#174
+2018-08-16
+Coming into Python from another Industry (part 2)
+Panelists
+
+#173
+2018-08-07
+Coming into Python from another Industry (part 1)
+Panelists
+
+#172
+2018-08-01
+Nuitka: A full Python compiler
+Kay Hayen
+
+#171
+2018-07-29
+1M Jupyter notebooks analyzed
+Adam Rule
+
+#170
+2018-07-20
+Guido van Rossum steps down
+Panelists
+
+#169
+2018-07-13
+Becoming a Python content creator
+Corey Schafer
+
+#168
+2018-07-06
+10 Python security holes and how to plug them
+Panelists
+
+#167
+2018-06-29
+Simplifying Python's Async with Trio
+Nathaniel Smith
+
+#166
+2018-06-14
+Continuous delivery with Python
+Cris Medina
+
+#165
+2018-06-08
+Python and the blockchain
+Stuart Farmer
+
+#164
+2018-06-01
+Python in Brain Research at the Allen Institute
+Panelists
+
+#163
+2018-05-25
+Python in Geoscience
+Lindsey Heagy
+
+#162
+2018-05-21
+Python in Building and Architecture
+Mark Mendez
+
+#161
+2018-05-12
+Django 2.0
+Daniel Roy Greenfeld
+
+#160
+2018-05-04
+Lektor: Beautiful websites out of flat files
+Joseph Nix
+
+#159
+2018-04-27
+Inside the new PyPI launch
+Panelists
+
+#158
+2018-04-20
+Quantum Computing and Python
+Hannah Sim
+
+#157
+2018-04-06
+The Journal of Open Source Software
+Arfon Smith
+
+#156
+2018-03-24
+Python History and Perspectives
+Mike Driscoll
+
+#155
+2018-03-16
+Practical steps for moving to Python 3
+Anthony Shaw
+
+#154
+2018-03-07
+Python in Biology and Genomics
+Ian Maurer
+
+#153
+2018-03-01
+How Python Evolves
+Nick Coghlan
+
+#152
+2018-02-23
+Understanding and using Python's AST
+Emily Morehouse-Valcarcel
+
+#151
+2018-02-16
+Gradual Typing of Production Applications
+Łukasz Langa
+
+#150
+2018-02-08
+Technical Lessons Learned from Pythonic Refactoring
+Yenny Cheung
+
+#149
+2018-02-02
+4 Python Web Frameworks, Compared
+Nicholas Hunt-Walker
+
+#148
+2018-01-28
+Python Book Authors'  Panel Discussion
+Panelists
+
+#147
+2018-01-19
+Quart: Flask, but 3x faster
+Philip Jones
+
+#146
+2018-01-11
+Building Alexa Skills with Python and Flask
+Panelists
+
+#145
+2017-12-31
+2017 Python Year in Review
+Brian Okken
+
+#144
+2017-12-26
+Machine Learning at the Large Hadron Collider
+Panelists
+
+#143
+2017-12-20
+Tuning Python Web App Performance
+Ben Cane
+
+#142
+2017-12-13
+Automating the web with Selenium and InstaPy
+Tim Großmann
+
+#141
+2017-12-07
+Python tricks
+Dan Bader
+
+#140
+2017-11-29
+Level up your Python with #100DaysOfCode challenge
+Panelists
+
+#139
+2017-11-22
+Paths into a data science career
+Hugo Bowne-Anderson
+
+#138
+2017-11-15
+Anvil: All web, all Python
+Meredydd Luff
+
+#137
+2017-11-08
+Design concepts and tips for developers
+James Stone
+
+#136
+2017-11-02
+Secure code lessons from Have I Been Pwned
+Troy Hunt
+
+#135
+2017-10-27
+Capturing human moments with AI and Python
+Vincent Spruyt
+
+#134
+2017-10-19
+Python in Climate Science
+Damien Irving
+
+#133
+2017-10-11
+Productivity for developers
+Jay Miller
+
+#132
+2017-10-04
+Contributing to open source
+Panelists
+
+#131
+2017-09-26
+Top 10 machine learning libraries
+Pete Garcin
+
+#130
+2017-09-19
+10 books Python developers should be reading
+Timo Koola
+
+#129
+2017-09-14
+Falcon: The bare-metal Python web framework
+Panelists
+
+#128
+2017-09-07
+Pythonic Networks with NAPALM
+David Barroso
+
+#127
+2017-08-31
+Shipping software to users
+Glyph
+
+#126
+2017-08-22
+Kubernetes for Pythonistas 
+Kelsey Hightower
+
+#125
+2017-08-15
+Django REST framework and a new API star is born
+Tom Christie
+
+#124
+2017-08-07
+Python for AI research
+Alex Lavin
+
+#123
+2017-07-31
+Lessons from 100 straight dev job interviews
+Susan Tan
+
+#122
+2017-07-26
+Home Assistant: Pythonic Home Automation
+Paulus Schoutsen
+
+#121
+2017-07-19
+Microservices in Python
+Miguel Grinberg
+
+#120
+2017-07-12
+Python in Finance
+Yves Hilpisch
+
+#119
+2017-07-06
+Python in Engineering
+Allen Downey
+
+#118
+2017-06-27
+Serverless software
+Ryan Scott Brown
+
+#117
+2017-06-21
+Functional Python with Coconut
+Evan Hubinger
+
+#116
+2017-06-12
+10 top talks of PyCon 2017 reviewed
+Brett Slatkin
+
+#115
+2017-06-08
+Python for Humans projects
+Kenneth Reitz
+
+#114
+2017-05-30
+Empowering developers at the Hidden Genius project
+Hidden Genius Crew
+
+#113
+2017-05-27
+Dedicated AI chips and running old Python faster at Intel
+Panelists
+
+#112
+2017-05-18
+Geeking out in the golden years
+Philip Guo
+
+#111
+2017-05-13
+Pythonic Career Advice and More
+Matt Harrison
+
+#110
+2017-05-02
+Data Democratization with Redash
+Arik Fraimovich
+
+#109
+2017-04-29
+MongoDB Applied Design Patterns
+Rick Copeland
+
+#108
+2017-04-21
+MicroPython and Open Source Hardware at Adafruit
+Tony DiCola
+
+#107
+2017-04-15
+Python concurrency with Curio
+David Beazley
+
+#106
+2017-04-07
+Invent your own computer games with Python
+Al Sweigart
+
+#105
+2017-03-27
+A Pythonic Database Tour
+Jim Fulton
+
+#104
+2017-03-23
+Game Theory in Python
+Panelists
+
+#103
+2017-03-16
+Compiling Python through PyLLVM and MongoDB for Data Scientists
+Anna Herlihy
+
+#102
+2017-03-08
+Effective Code Reviews
+Dougal Matthews
+
+#101
+2017-03-03
+Adding a full featured Python environment to  Visual Studio Code
+Don Jayamanne
+
+#100
+2017-02-22
+Python past, present, and future with Guido van Rossum
+Guido van Rossum
+
+#99
+2017-02-15
+Morepath: Super Powered Python Web Framework
+Martijn Faassen 
+
+#98
+2017-02-08
+Adding concurrency to Django with Django Channels
+Andrew Godwin
+
+#97
+2017-02-02
+Flask, Django style with Flask-Diamond
+Ian Dennis Miller
+
+#96
+2017-01-25
+Exploring Awesome Python
+Matthew Makai
+
+#95
+2017-01-18
+Grumpy: Running Python on Go
+Dylan Trotter
+
+#94
+2017-01-11
+Guarenteed packages via Conda and Conda-Forge
+Panelists
+
+#93
+2017-01-03
+Spreading Python through the sciences with Software Carpentry
+Jonah Duckles
+
+#92
+2016-12-29
+Bonus: Python Bytes Crossover: Python 3.6 is going to be awesome, Kite: your friendly co-developing AI
+Panelists
+
+#91
+2016-12-27
+Top 10 Data Science Stories of 2016
+Jonathon Morgan
+
+#90
+2016-12-21
+Data Wrangling with Python
+Katharine Jarmul
+
+#89
+2016-12-15
+A conversation with the Chief Data Scientist of the United States
+DJ Patil
+
+#88
+2016-12-06
+Lightweight Django
+Panelists
+
+#87
+2016-11-29
+PonyORM: The most Pythonic ORM yet?
+Alexey Malashkevich
+
+#86
+2016-11-24
+Python at StackOverflow
+Martijn Pieters
+
+#85
+2016-11-17
+Parsing horrible things with Python
+Erik Rose
+
+#84
+2016-11-08
+Are we failing to fund Python's core infrastructure?
+Panelists
+
+#83
+2016-11-02
+Python Videos on Demand at PyVideo
+Paul Logston
+
+#82
+2016-10-27
+Grokking Algorithms in Python
+Aditya Bhargava
+
+#81
+2016-10-21
+Python and Machine Learning in Astronomy
+Jake VanderPlas
+
+#80
+2016-10-16
+TinyDB: A tiny document db written in Python
+Markus Siemens
+
+#79
+2016-10-07
+Beeware Python Tools
+Russell Keith-Magee
+
+#78
+2016-09-28
+How I built an entire game and toolchain 100% in Python
+Joseph Cherlin
+
+#77
+2016-09-23
+20 Python Libraries You Aren't Using (But Should)
+Caleb Hattingh
+
+#76
+2016-09-15
+Renewable Python
+Anna Schneider
+
+#75
+2016-09-09
+Pythonic games at CheckIO
+Alexander Lyabah
+
+#74
+2016-09-02
+Past, Present, and Future of IronPython
+Alex Earl
+
+#73
+2016-08-26
+Machine learning at the new Microsoft
+David Crook
+
+#72
+2016-08-19
+Fashion-driven open source software at Zalando
+Panelists
+
+#71
+2016-08-11
+Soft Skills: The software developer's life manual 
+John Sonmez
+
+#70
+2016-08-05
+Pythonic cover songs at Loudr
+Josh Whelchel
+
+#69
+2016-07-26
+Write an Excellent Programming Blog
+A. Jesse Davis
+
+#68
+2016-07-20
+Crossing the streams with Podcast.__init__
+Panelists
+
+#67
+2016-07-13
+Property-based Testing with Hypothesis
+David MacIver
+
+#66
+2016-07-07
+Faster Python Programs: Measure, Don't Guess
+Mike Müller
+
+#65
+2016-06-29
+Jump on the real-time web with RethinkDB
+Slava Akhmechet
+
+#64
+2016-06-24
+Inside the Python Package Index
+Donald Stufft
+
+#63
+2016-06-16
+Validating Python tests with mutation testing
+Austin Bingham
+
+#62
+2016-06-07
+San Diego Technology Immersion Group Learns Python
+Panelists
+
+#61
+2016-05-30
+Free software, free people
+Pete Fein
+
+#60
+2016-05-24
+Scaling Python to 1000's of cores with Ufora
+Braxton McKee 
+
+#59
+2016-05-18
+SageMath - Open source is ready to compete in the classroom
+William Stein
+
+#58
+2016-05-10
+Create better Python programs with concurrency, libraries, and patterns
+Mark Summerfield
+
+#57
+2016-05-05
+Python performance from the inside-out at Intel
+David Stewart
+
+#56
+2016-04-27
+Data Science from Scratch
+Joel Grus
+
+#55
+2016-04-21
+How our engineering environments are killing diversity (and how we can fix it)
+Kate Heddleston
+
+#54
+2016-04-14
+Enterprise Software with Python
+Mahmoud Hashemi
+
+#53
+2016-04-06
+Python in Visual Studio
+Steve Dower
+
+#52
+2016-03-27
+EVE Online: MMO game powered by Python
+Kristinn Sigurbergsson
+
+#51
+2016-03-21
+SigOpt: Optimizing Everything with Python
+Patrick Hayes
+
+#50
+2016-03-15
+Web scraping at scale with Scrapy and ScrapingHub
+Pablo Hoffman
+
+#49
+2016-03-08
+Microsoft's JIT-based Python Project: Pyjion
+Brett Cannon
+
+#48
+2016-03-01
+Building Flask-based Web Apps
+Miguel Grinberg
+
+#47
+2016-02-23
+Python in Typeface and Font Development
+Just van Rossum
+
+#46
+2016-02-16
+Python in Movies and Entertainment
+Robert Blau
+
+#45
+2016-02-09
+The Python Testing Column, Now a Thing
+Brian Okken
+
+#44
+2016-02-02
+Project Jupyter and IPython
+Min and Matthias
+
+#43
+2016-01-26
+Monitoring high performance Python apps at Opbeat
+Ron Cohen
+
+#42
+2016-01-19
+Python in Startups and Investing
+Leah Culver
+
+#41
+2016-01-12
+Getting your first dev job as a Python developer (part 2)
+Panelists
+
+#40
+2015-12-29
+Top 10 Data Science Stories from 2015
+Jonathon Morgan
+
+#39
+2015-12-22
+Getting your first dev job as a Python developer (part 1)
+Panelists
+
+#38
+2015-12-15
+Continuous Integration and Delivery at Codeship
+Florian Motlik
+
+#37
+2015-12-08
+Python Cybersecurity and Penetration Testing
+Justin Seitz
+
+#36
+2015-12-01
+Python IDEs with the PyCharm team
+Dmitry Trofimov
+
+#35
+2015-11-24
+Turbogears and the future of Python web frameworks
+Alessandro Molina
+
+#34
+2015-11-17
+Continuum: Scientific Python and The Business of Open Source
+Travis Oliphant
+
+#33
+2015-11-10
+OpenStack: Cloud computing built on Python
+Flavio Percoco
+
+#32
+2015-11-03
+PyPy.js - PyPy Python in Your Browser
+Ryan Kelly
+
+#31
+2015-10-27
+Machine Learning with Python and scikit-learn
+Alexandre Gramfort
+
+#30
+2015-10-20
+Python Community and Python at Dropbox
+Jessica McKellar
+
+#29
+2015-10-13
+Python at the Large Hadron Collider and CERN
+Kyle Cranmer
+
+#28
+2015-10-06
+Making Python Fast: Profiling Python Code
+Davis Silverman
+
+#27
+2015-09-29
+Four Years of Python for High Schoolers
+Laura Blankenship
+
+#26
+2015-09-22
+Deploying Python Web Applications (Updated)
+Matthew Makai
+
+#25
+2015-09-15
+Effective Python
+Brett Slatkin
+
+#24
+2015-09-08
+Fluent Python
+Luciano Ramalho
+
+#23
+2015-09-01
+3D Printing with Python at Authentise
+Eli Ribble
+
+#22
+2015-08-25
+CPython Internals and Learning Python with pythontutor.com
+Philip Guo
+
+#21
+2015-08-18
+PyPy - The JIT Compiled Python Implementation
+Maciej Fijalkowski
+
+#20
+2015-08-11
+Interactive Python and Teaching Python: Beyond Text Books
+Brad Miller
+
+#19
+2015-08-04
+Automate the Boring Stuff with Python
+Al Sweigart
+
+#18
+2015-07-28
+Python Anti-patterns and other mistakes
+Andreas Dewes
+
+#17
+2015-07-21
+Python on bare metal with MicroPython
+Damien George
+
+#16
+2015-07-14
+Python at Netflix
+Roy Rapoport
+
+#15
+2015-07-07
+Python at Spotify, PSF, and PyLadies
+Lynn Root
+
+#14
+2015-06-30
+Moving from PHP to Python 3 with Patreon
+Albert Sheu
+
+#13
+2015-06-23
+Flask web framework and much, much more
+Armin Ronacher
+
+#12
+2015-06-16
+Deep Dive into Modules and Packages
+David Beazley
+
+#11
+2015-06-09
+PyImageSearch and Computer Vision
+Adrian Rosebrock
+
+#10
+2015-06-02
+Bringing Python to the Masses with Hosting and DevOps at PythonAnywhere
+Harry Percival
+
+#9
+2015-05-26
+Docker for the Python Developer
+Patrick Chanezon
+
+#8
+2015-05-19
+Teaching Python at Grok Learning and Classrooms
+Dr. James Curran
+
+#7
+2015-05-12
+Robot Operating System (ROS) and ROSPy
+Dirk Thomas
+
+#6
+2015-05-05
+Requests, PyCon, and Python's future
+Kenneth Reitz
+
+#5
+2015-04-28
+SQLAlchemy and data access in Python
+Mike Bayer
+
+#4
+2015-04-23
+Enterprise Python and Large-Scale Projects
+Mahmoud Hashemi
+
+#3
+2015-04-16
+Pyramid Web Framework
+Chris McDonough
+
+#2
+2015-04-07
+Python and MongoDB
+A. Jesse Davis
+
+#1
+2015-03-31
+EVE - RESTful APIs for humans
+Nicola Iarocci
+
+#0
+2015-03-21
+Introducing the show!
+Michael Kennedy

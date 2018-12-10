@@ -2,7 +2,7 @@ from requests import get
 from bs4 import BeautifulSoup
 
 # URL of site we want to scrape
-URL = "https://pybit.es/pages/projects.html"
+URL = "https://talkpython.fm/episodes/all"
 
 
 def pull_site():
@@ -14,12 +14,15 @@ def pull_site():
 def scrape(site):
     # Create BeautifulSoup object
     soup = BeautifulSoup(site.text, 'html.parser')
-    html_header_list = soup.select('.projectHeader')
+    episode_list = soup.table.find_all('tr')
 
-    header_list = [header.getText() for header in html_header_list]
+    filename = 'list_of_episodes.txt'
+    print('Writing file containing the list of all talkpython episodes')
+    with open(filename, 'w+', encoding='utf-8') as list_of_episodes:
+        for episode in episode_list[1:]:
+            list_of_episodes.write(episode.getText())
 
-    for headers in header_list:
-        print(headers)
+    print('Done')
 
 
 if __name__ == "__main__":
