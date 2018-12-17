@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:icon>http://www.bungie.net/img/Bungie-Logo-PicLens-white.png</atom:icon>
+		<title>Bungie.Net Content Feed</title>
+		<link>http://www.bungie.net/en/rss/News?currentPage=1&amp;itemsPerPage=8&amp;category=all</link>
+		<description>Data from the Bungie.Net News, Jobs, and other information</description>
+		<language>en</language>
+		<pubDate>Mon, 17 Dec 2018 12:27:25 GMT</pubDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>BlamDotNet RSS Generator</generator>
+		<webMaster>webmaster@bungie.net (Bungie WebMaster)</webMaster>
+		<atom:link rel="self" href="http://www.bungie.net/en/Rss/NewsByCategory?category=all&amp;currentpage=1&amp;itemsPerPage=8&amp;FILENAME=NewsRss&amp;LOCALE=en"></atom:link>
+				<atom:link rel="next" href="http://www.bungie.net/en/rss/News?currentPage=2&amp;itemsPerPage=8&amp;category=all"></atom:link>
+					<item>
+				<title>This Week At Bungie &#8211; 12/13/2018</title>
+				<link>http://www.bungie.net/en/News/Article/47536</link>
+				<pubDate>Thu, 13 Dec 2018 22:25:41 GMT</pubDate>
+				<guid isPermaLink="false">BungieNet_ContentItem_47536</guid>
+				<description>Baking the goods</description>
+			</item>
+			<item>
+				<title>Community Focus - CammyCakes</title>
+				<link>http://www.bungie.net/en/News/Article/47498</link>
+				<pubDate>Wed, 12 Dec 2018 23:03:38 GMT</pubDate>
+				<guid isPermaLink="false">BungieNet_ContentItem_47498</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Destiny Update 2.1.2</title>
+				<link>http://www.bungie.net/en/News/Article/47529</link>
+				<pubDate>Tue, 11 Dec 2018 17:16:37 GMT</pubDate>
+				<guid isPermaLink="false">BungieNet_ContentItem_47529</guid>
+				<description>The one about Prime Engrams</description>
+			</item>
+			<item>
+				<title>This Week At Bungie &#8211; 12/06/2018</title>
+				<link>http://www.bungie.net/en/News/Article/47518</link>
+				<pubDate>Thu, 06 Dec 2018 23:28:59 GMT</pubDate>
+				<guid isPermaLink="false">BungieNet_ContentItem_47518</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The Dawning 2018</title>
+				<link>http://www.bungie.net/en/News/Article/47513</link>
+				<pubDate>Thu, 06 Dec 2018 18:03:41 GMT</pubDate>
+				<guid isPermaLink="false">BungieNet_ContentItem_47513</guid>
+				<description>Cookies are enabled.</description>
+			</item>
+			<item>
+				<title>Black Armory Update!</title>
+				<link>http://www.bungie.net/en/News/Article/47501</link>
+				<pubDate>Wed, 05 Dec 2018 23:04:38 GMT</pubDate>
+				<guid isPermaLink="false">BungieNet_ContentItem_47501</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Destiny 2 Update 2.1.1.1</title>
+				<link>http://www.bungie.net/en/News/Article/47489</link>
+				<pubDate>Tue, 04 Dec 2018 17:07:38 GMT</pubDate>
+				<guid isPermaLink="false">BungieNet_ContentItem_47489</guid>
+				<description>The one before Black Armory opens</description>
+			</item>
+			<item>
+				<title>This Week At Bungie &#8211; 11/29/2018</title>
+				<link>http://www.bungie.net/en/News/Article/47478</link>
+				<pubDate>Thu, 29 Nov 2018 22:02:40 GMT</pubDate>
+				<guid isPermaLink="false">BungieNet_ContentItem_47478</guid>
+				<description>Forging ahead.</description>
+			</item>
+	</channel>
+</rss>
