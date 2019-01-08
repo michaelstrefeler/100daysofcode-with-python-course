@@ -5,10 +5,12 @@ from data import fave_beer
 
 app = Flask(__name__)
 
+
 @app.route("/")
-def index():   
+def index():
     return render_template("index.html",
                            fave_beer=fave_beer)
+
 
 if __name__ == "__main__":
     app.run()
