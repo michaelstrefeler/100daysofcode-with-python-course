@@ -3,7 +3,7 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <title>Favourite Beer Tracker</title>
+  <title>Upcoming games 2019</title>
 
   <link
     rel="stylesheet"
@@ -14,18 +14,18 @@
 </head>
 
 <body style="margin-left:50px">
-  <h1>Favourite Beers</h1>
+  <h1>Upcoming games</h1>
 
   <div>
-    <table class="table-responsive table-striped table-bordered">
+    <table class="table">
       <tr>
-        <th>Name</th>
-        <th>Beer of Choice</th>
+        <th>Game</th>
+        <th>Release date</th>
       </tr>
-      {% for name, beer in fave_beer.items() %}
+      {% for game, date in upcoming_games.items() %}
       <tr>
-        <td>{{ name }}</td>
-        <td>{{ beer }}</td>
+        <td>{{ game }}</td>
+        <td>{{ date }}</td>
       </tr>
       {% endfor %}
     </table>
