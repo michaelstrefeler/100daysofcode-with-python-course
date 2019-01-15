@@ -1,6 +1,6 @@
 # bokeh imports
 from bokeh.io import output_file, show
-from bokeh.palettes import Category20c
+from bokeh.palettes import Category20b, Plasma
 from bokeh.plotting import figure
 from bokeh.transform import cumsum
 
@@ -81,8 +81,8 @@ def make_category_pie_chart():
     data = pd.Series(pybites_data).reset_index(name='value')\
         .rename(columns={'index': 'category'})
     data['angle'] = data['value'] / data['value'].sum() * 2 * pi
-    data['color'] = Category20c[len(pybites_data)]
-
+    data['color'] = Plasma[len(pybites_data)]
+    data['legend'] = data['category'] + ': ' + data['value'].astype(str)
     p = figure(plot_height=350, title="Most common pybites categories",
                toolbar_location=None, tools="hover",
                tooltips="@category: @value", x_range=(-0.5, 1.0))
@@ -90,7 +90,7 @@ def make_category_pie_chart():
     p.wedge(x=0, y=1, radius=0.4,
             start_angle=cumsum('angle', include_zero=True),
             end_angle=cumsum('angle'),
-            line_color="white", fill_color='color', legend='category',
+            line_color="white", fill_color='color', legend='legend',
             source=data)
 
     p.axis.axis_label = None
@@ -107,6 +107,8 @@ def make_posts_bar_chart():
     posts_by_month = Counter(pub_dates)
     posts = list(posts_by_month.keys())[::-1]
     count = list(posts_by_month.values())[::-1]
+    posts = posts[13:]
+    count = count[13:]
 
     p = figure(x_range=posts, plot_height=500, plot_width=1400,
                title="Posts per month",
@@ -128,8 +130,8 @@ def make_tag_pie_chart():
     data = pd.Series(tags).reset_index(name='value')\
         .rename(columns={'index': 'tag'})
     data['angle'] = data['value'] / data['value'].sum() * 2 * pi
-    data['color'] = Category20c[len(tags)]
-
+    data['color'] = Category20b[len(tags)]
+    data['legend'] = data['tag'] + ': ' + data['value'].astype(str)
     p = figure(plot_height=600, title="Most common tags in pybites posts",
                toolbar_location=None, tools="hover",
                tooltips="@tag: @value", x_range=(-0.5, 1.0))
@@ -137,7 +139,7 @@ def make_tag_pie_chart():
     p.wedge(x=0, y=1, radius=0.4,
             start_angle=cumsum('angle', include_zero=True),
             end_angle=cumsum('angle'),
-            line_color="white", fill_color='color', legend='tag',
+            line_color="white", fill_color='color', legend='legend',
             source=data)
 
     p.axis.axis_label = None
