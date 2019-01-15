@@ -21,7 +21,7 @@ entries = blog_feed['entries']
 def let_user_choose_the_chart():
     '''Lets the user choose which chart they want to see'''
     print('A Pybites article categories')
-    print('B Pybites amount of posts per month')
+    print('B Amount of posts per month on pybit.es')
     print('C Pybites tag popularity')
     choice = input('Which chart would you like to see?: (A/B/C) ')
     if choice.upper() == 'A':
@@ -33,7 +33,7 @@ def let_user_choose_the_chart():
     else:
         print('Invalid choice')
         exit()
-    print('Good choice. Check your browser for the graph')
+    print('\nGood choice. Check your browser for the graph')
 
 
 def get_category(link):
@@ -66,7 +66,7 @@ def get_tags():
 
 def get_year_month(date_str):
     '''Strips the day and time from the published field
-        Returns year and month'''
+        Returns the year and month'''
     #  'published': 'Sun, 07 Jan 2018 12:00:00 +0100',
     date_str = date_str.split('+')[0].strip()
     dt = datetime.strptime(date_str, '%a, %d %b %Y %H:%M:%S')
@@ -74,7 +74,7 @@ def get_year_month(date_str):
 
 
 def make_category_pie_chart():
-    '''Makes a pie chart showing how much each category is used for articles'''
+    '''Makes a pie chart showing how much each category is used'''
     categories = [get_category(entry.link) for entry in entries]
     pybites_data = format_categories(categories)
 
@@ -122,7 +122,7 @@ def make_posts_bar_chart():
 
 
 def make_tag_pie_chart():
-    '''Makes a pie chart shoiwing the popularity of each tag'''
+    '''Makes a pie chart showing the popularity of each tag'''
     tags = get_tags()
 
     data = pd.Series(tags).reset_index(name='value')\
