@@ -12,9 +12,9 @@ Create an account via: [**talkpython.fm/anvil100**](https://talkpython.fm/anvil1
 
 [![](readme_resources/register.png)](https://talkpython.fm/anvil100)
 
-**Note:** *If you want to use the demo app in your account, the easiest way is to "clone it online" using this link: [anvil.works/ide#clone:5CHGY3Q6SBHQGA27=7WPAVZAGTUKSFK3QVI2XGV5U](https://anvil.works/ide#clone:5CHGY3Q6SBHQGA27=7WPAVZAGTUKSFK3QVI2XGV5U)*
+**Note:** _If you want to use the demo app in your account, the easiest way is to "clone it online" using this link: [anvil.works/ide#clone:5CHGY3Q6SBHQGA27=7WPAVZAGTUKSFK3QVI2XGV5U](https://anvil.works/ide#clone:5CHGY3Q6SBHQGA27=7WPAVZAGTUKSFK3QVI2XGV5U)_
 
-*You can also see the live, read-only version of the demo app at: [pypoint-100days.anvilapp.net](https://pypoint-100days.anvilapp.net/)*
+_You can also see the live, read-only version of the demo app at: [pypoint-100days.anvilapp.net](https://pypoint-100days.anvilapp.net/)_
 
 Once you have your account, create a new app (material design, side-bar style). Then
 
@@ -50,8 +50,10 @@ Finally, if this is something you'd like to share with the world, be sure to pub
 
 ### Time to share what you've accomplished!
 
-Be sure to share your last couple of days work on Twitter or Facebook. Use the hashtag **#100DaysOfCode**. 
+Be sure to share your last couple of days work on Twitter or Facebook. Use the hashtag **#100DaysOfCode**.
 
 Here are [some examples](https://twitter.com/search?q=%23100DaysOfCode) to inspire you. Consider including [@talkpython](https://twitter.com/talkpython) and [@pybites](https://twitter.com/pybites) in your tweets.
 
-*See a mistake in these instructions? Please [submit a new issue](https://github.com/talkpython/100daysofcode-with-python-course/issues) or fix it and [submit a PR](https://github.com/talkpython/100daysofcode-with-python-course/pulls).*
+_See a mistake in these instructions? Please [submit a new issue](https://github.com/talkpython/100daysofcode-with-python-course/issues) or fix it and [submit a PR](https://github.com/talkpython/100daysofcode-with-python-course/pulls)._
+
+[My version of the PyPoint website](https://neglected-grumpy-staff.anvil.app)
