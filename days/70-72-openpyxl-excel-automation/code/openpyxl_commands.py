@@ -23,7 +23,6 @@ for col in list('L'):
     for row in range(2, 101):
         cell = col + str(row)
         profit_total += float(ws1[cell].value)
-        
 print(profit_total)
 
 
